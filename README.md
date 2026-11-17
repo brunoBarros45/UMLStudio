@@ -40,3 +40,10 @@ swift build -c release
 # Ejecutar la aplicación
 .build/release/UMLStudioApp
 ```
+
+---
+
+## Licencia
+
+Este proyecto es Open Source bajo la [MIT License](LICENSE).
+
