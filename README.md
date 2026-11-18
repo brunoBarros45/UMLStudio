@@ -43,7 +43,19 @@ swift build -c release
 
 ---
 
+## Contribuciones, Feedback y Reporte de Bugs
+
+**UMLStudio** es un proyecto Open Source abierto a la comunidad. Se aceptan todo tipo de aportes:
+
+- **Feedback y sugerencias:** Compartí ideas de UX, atajos o mejoras en [GitHub Issues](https://github.com/brunoBarros45/UMLStudio/issues).
+- **Reporte de bugs:** Si encontrás algún fallo o comportamiento inesperado, abrí un issue usando la plantilla de bug report.
+- **Pull Requests:** Revisá la guía en [CONTRIBUTING.md](CONTRIBUTING.md) para colaborar con código, fixes o tests respetando la arquitectura en 4 capas.
+- **Historial de cambios:** Consultá [CHANGELOG.md](CHANGELOG.md).
+
+---
+
 ## Licencia
 
 Este proyecto es Open Source bajo la [MIT License](LICENSE).
+
 
